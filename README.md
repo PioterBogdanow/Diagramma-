@@ -1,1 +1,1 @@
-# Diagramma-
+# Diagramma-последовательности
